@@ -1,5 +1,6 @@
 # 13 Stones
 This is an Android game called 13 stones.
+
 <img src="/screenshots/game.png" width=300 height=600 align=center>
 
 ## How to Play
@@ -7,14 +8,17 @@ This is an Android game called 13 stones.
 
 ## Game Over
 When the pile of stones is empty, the winner is displayed.
+
 <img src="/screenshots/game_over.png" width=300 height=600 align=center>
 
 ## Prefences
 The user can choose whether to allow night mode, whether the game should auto state on exit, and whether the last pick should win the game.
+
 <img src="/screenshots/preferences.png" width=300 height=600 align=center>
 
 ## Statistics
 Displays how many games each player won.
+
 <img src="/screenshots/statistics.png" width=300 height=600 align=center>
 
 ## Lanscape mode
