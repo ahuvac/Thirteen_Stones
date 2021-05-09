@@ -22,4 +22,4 @@ Displays how many games each player won.
 <img src="/screenshots/statistics.png" width=315 height=600 align=center>
 
 ## Lanscape mode
-<img src="/screenshots/landscape.png" width=600 height=300 align=center>
+<img src="/screenshots/landscape.png" width=600 height=350 align=center>
